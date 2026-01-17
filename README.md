@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Ahmed Yassin</b>, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Assiut, Egypt</b>. </p>
+<p>Welcome to my page! </br> I'm <b>Ahmed Yassin</b>, Frontend Developer from <img src="https://img.icons8.com/color/48/000000/egypt.png" width="20"/> <b>Assiut, Egypt</b>. 🇪🇬</p>
+
 
 <h3>Things I code with</h3>
 <p>
