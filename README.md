@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Ahmed Yassin
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey! I'm Ahmed Yassin
 </h1>
 
 <p align="center">
@@ -7,7 +8,8 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/egypt.png" width="20"/> <b>Assiut, Egypt</b> 🇪🇬
+  <img src="https://img.icons8.com/color/48/000000/egypt.png" width="20"/> 
+  <b>Assiut, Egypt</b> 🇪🇬
 </p>
 
 ---
@@ -28,6 +30,7 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
 ---
 
 <h2 align="center">🎨 Projects</h2>
+
 <table>
   <thead align="center">
     <tr>
@@ -40,46 +43,43 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/Ecommerce-Landing-Page"><b>Ecommerce-Landing-Page</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahmedyassin110/Ecommerce-Landing-Page"><b>Ecommerce-Landing-Page</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Ecommerce-Landing-Page?style=flat-square"/></td>
     </tr>
+
     <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/AI-CodeAcademy"><b>AI CodeAcademy</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin1900900/AI-CodeAcademy?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahmedyassin110/AI-CodeAcademy"><b>AI-CodeAcademy</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/AI-CodeAcademy?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/AI-CodeAcademy?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/AI-CodeAcademy?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/AI-CodeAcademy?style=flat-square"/></td>
     </tr>
+
     <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/Management-System-Dashboard"><b>Management System Dashboard</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin1900900/Management-System-Dashboard?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahmedyassin110/Management-System-Dashboard"><b>Management-System-Dashboard</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Management-System-Dashboard?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Management-System-Dashboard?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Management-System-Dashboard?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Management-System-Dashboard?style=flat-square"/></td>
     </tr>
+
     <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/Simple-FitZone"><b>Simple FitZone</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin1900900/Simple-FitZone?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahmedyassin110/Simple-FitZone"><b>Simple-FitZone</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Simple-FitZone?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Simple-FitZone?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Simple-FitZone?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Simple-FitZone?style=flat-square"/></td>
     </tr>
+
     <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/Simple-FoodVibes"><b>Simple FoodVibes</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/Simple-FoodVibes?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/Simple-FoodVibes?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/Simple-FoodVibes?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin1900900/Simple-FoodVibes?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/Modern-Developer-Portfolio"><b>Modern Developer Portfolio</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin1900900/Modern-Developer-Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahmedyassin110/Simple-FoodVibes"><b>Simple-FoodVibes</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/ahmedyassin110/Simple-FoodVibes?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/forks/ahmedyassin110/Simple-FoodVibes?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues/ahmedyassin110/Simple-FoodVibes?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/github/issues-pr/ahmedyassin110/Simple-FoodVibes?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
@@ -88,23 +88,26 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
-  <a href="https://github.com/ahmedyassin1900900" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <a href="https://github.com/ahmedyassin110">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmedyassin1900900" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ahmedyassin1900900">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ahmedyassin1900900@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ahmedyassin1900900@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/ahmedyassin1900900" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/ahmedyassin1900900">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://wa.me/01016707108" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/201016707108">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">💡 This README is fully interactive, visually appealing & luxurious. Made with ❤️ by Ahmed Yassin</p>
+<p align="center">
+💡 This README is fully interactive, visually appealing & luxurious.<br/>
+Made with ❤️ by Ahmed Yassin
+</p>
